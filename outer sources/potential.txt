@@ -1,0 +1,30 @@
+CSCO	Cisco Systems, Inc.	48.64	-0.42	-0.86%
+TWLO	Twilio Inc.	59.09	-2.06	-3.38%
+COIN	Coinbase Global, Inc.	189.49	+23.82	+14.38%
+SOUN	SoundHound AI, Inc.	3.5975	-0.1625	-4.32%
+DTSS	Datasea Inc.	8.37	-1.45	-14.77%
+SMCI	Super Micro Computer, Inc.	883.10	-120.90	-12.04%
+OXY	Occidental Petroleum Corporation	60.56	+0.45	+0.75%
+NNOX	Nano-X Imaging Ltd.	13.71	+4.21	+44.30%
+FSLY	Fastly, Inc.	15.61	-0.73	-4.44%
+GOOG	Alphabet Inc.	142.69	-1.25	-0.87%
+FROG	JFrog Ltd.	46.04	-1.60	-3.35%
+QS	QuantumScape Corporation	6.99	-0.22	-3.12%
+GOOGL	Alphabet Inc.	141.38	-1.39	-0.97%
+TSLA	Tesla, Inc.	200.12	-0.33	-0.16%
+APP	AppLovin Corporation	60.19	+1.69	+2.89%
+BLNK	Blink Charging Co.	3.3400	-0.1500	-4.29%
+RXRX	Recursion Pharmaceuticals, Inc.	13.34	+0.91	+7.33%
+MARA	Marathon Digital Holdings, Inc.	27.59	+0.57	+2.11%
+UBER	Uber Technologies, Inc.	79.66	-1.73	-2.13%
+BTC-USD	Bitcoin USD	52,024.61	-269.87	-0.52%
+NFLX	Netflix, Inc.	587.35	-6.11	-1.03%
+ALB	Albemarle Corporation	123.76	+6.26	+5.33%
+HUBS	HubSpot, Inc.	616.41	+7.45	+1.22%
+UPWK	Upwork Inc.	13.72	-0.15	-1.12%
+SPCE	Virgin Galactic Holdings, Inc.	1.8900	-0.0300	-1.56%
+GNRC	Generac Holdings Inc.	117.55	-3.13	-2.59%
+NVDA	NVIDIA Corporation	738.40	+11.82	+1.63%
+CHNR	China Natural Resources, Inc.	1.8501	-1.6199	-46.68%
+MSTR	MicroStrategy Incorporated	709.86	-8.14	-1.13%
+AMD	Advanced Micro Devices, Inc.	175.91	-0.85	-0.48%
